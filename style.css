@@ -223,13 +223,13 @@ body {
   grid-column: 1 / 2;
   background-size: cover;
   background-position: center;
-  background-image: url("./assets/image2.jpg");
+  background-image: url("http://localhost:8080/assets/image2.jpg");
 }
 
 .right-background {
   grid-column: 2 / 3;
   background-size: cover;
   background-position: center;
-  background-image: url("./assets/image1.jpg");
+  background-image: url("http://localhost:8080/assets/image1.jpg");
 }
 
